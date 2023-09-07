@@ -1,0 +1,6 @@
+Puntuación: 5 Comentario: Excelente calificación
+Puntuación: 1 Comentario: Mala calificación
+Puntuación: 4 Comentario: Bien logrado
+Puntuación: 3 Comentario: Regular
+Puntuación: 2 Comentario: Pésimo
+Puntuación: 2 Comentario: No logrado
